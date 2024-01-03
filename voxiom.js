@@ -23,3 +23,4 @@ const inventory = {
     "F6R": "Magnum Pistol",
     "C2d": "Shovel"
 }
+export { Voxiom, inventory }
