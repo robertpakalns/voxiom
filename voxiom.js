@@ -9,3 +9,4 @@ class Voxiom {
     style(n, v) { this.element.style[n] = v; return this }
     append(...cc) { cc.forEach(c => this.element.appendChild(c.element)) }
 }
+export { Voxiom }
