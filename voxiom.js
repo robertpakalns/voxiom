@@ -23,3 +23,5 @@ const Inv = {
     "F6R": "Magnum Pistol",
     "C2d": "Shovel"
 }
+const a = "a"
+let b = "b"
