@@ -1,0 +1,238 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.cTrbsB * {
+    font-family: 'Roboto', sans-serif;
+    border-radius: 10px !important;
+}
+
+.jboUUF,
+.hCYBep,
+.hrxbol,
+.yYlig,
+.iRqeFU,
+.iiRiSL,
+.cSKUzy,
+.kNYfem,
+.dXfkYO,
+.gZLiLw,
+.lnowGN,
+.hjworq,
+.gpHlKD,
+.gDkaEo,
+.jmIfaI,
+.gCgbHs,
+.gifBhy,
+.gDiQFf,
+.fjnjIP,
+.bXChBy,
+.fwBNqY,
+.ljgsos,
+.kniWst,
+.bedrXf {
+    display: none !important;
+}
+
+tr td:not(:first-child):not(:last-child),
+.Dropdown-option,
+.bNczYf,
+.fsQUZP,
+.jpBBcJ,
+.eBhveS,
+.ksWDWD,
+.llbsFS,
+.jIHuvv img,
+.dKFfQG,
+.hqxCCk,
+.bIBkAt,
+.cCFlsG {
+    border-radius: 0 !important;
+}
+
+.sc-inrDdN.jecAsl,
+div.sc-eaPPdL.beFsSX>div:nth-child(1),
+tr td:first-child,
+.gawahZ {
+    border-radius: 10px 0 0 10px !important;
+}
+
+.sc-wAsCI.ljAgvx,
+div.sc-eaPPdL.beFsSX>div:nth-child(1),
+tr td:last-child,
+.jWrodx {
+    border-radius: 0 10px 10px 0 !important;
+}
+
+.eBhveS,
+.gawahZ,
+.jWrodx,
+.lafNsp,
+.hIaLVk,
+.dxWFIk,
+.hoVrDQ,
+.dyFVjE,
+.gvYWWU[style*="border: 3px solid rgb(100, 100, 100)"],
+.gvYWWU[style*="border: 5px solid rgb(255, 255, 255)"],
+.fheinf,
+.Wyvsc,
+.hyesiy {
+    border: none !important;
+}
+
+.Wyvsc,
+.iOQqtu,
+/*.dxWFIk,*/
+.dyFVjE,
+.gvYWWU,
+.fvYRgr {
+    background: transparent !important;
+}
+
+.dELkbP>span:nth-child(2) {
+    color: transparent !important;
+}
+
+.bNczYf {
+    filter: blur(5px) !important;
+    padding: 5px !important;
+    margin-left: -5px !important;
+}
+
+.diCJlC {
+    position: absolute !important;
+    top: 200px !important;
+}
+
+/*VUI*/
+.kAUsiJ,
+.hKPhsI,
+.eCtHSV,
+div[style="width: 550px; position: absolute; top: 0px; left: 0px; padding: 10px; pointer-events: none; background-color: rgba(0, 0, 0, 0.8); display: block;"] {
+    display: none !important;
+}
+
+.lfSpkR,
+.dxWFIk {
+    background: transparent !important;
+}
+
+.dxWFIk {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.HItYI .dxWFIk {
+    background: rgba(0, 0, 0, 0.5) !important;
+}
+
+.voxiomCreate {
+    margin: 20px;
+    position: absolute;
+    text-align: center;
+    font-family: Consolas, sans-serif;
+    font-weight: 900;
+    pointer-events: none;
+}
+
+.voxiomHp {
+    bottom: 0;
+    left: 0;
+}
+
+.voxiomConsole {
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.voxiomBlocks {
+    bottom: 35%;
+    left: 0;
+    right: 0;
+}
+
+.res {
+    margin: 20px;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.weapon {
+    padding: 0 5px;
+    height: 15px;
+    transform: scaleX(-1);
+}
+
+.sub {
+    margin: 5px 5px 5px auto;
+    padding: 5px;
+    width: max-content;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    background: rgba(0, 0, 0, 0.5);
+    font-family: Consolas, sans-serif;
+}
+
+/* Market */
+.hDBLYG {
+    border-width: 3px !important;
+}
+
+.hDBLYG[style*="rgb(255, 255, 255);"] {
+    background: radial-gradient(circle, rgba(255, 255, 255, 50%), rgba(255, 255, 255, 10%));
+}
+
+.hDBLYG[style*="rgb(128, 156, 255);"] {
+    background: radial-gradient(circle, rgba(128, 156, 255, 50%), rgba(128, 156, 255, 10%));
+}
+
+.hDBLYG[style*="rgb(180, 99, 255);"] {
+    background: radial-gradient(circle, rgba(180, 99, 255, 50%), rgba(180, 99, 255, 10%));
+}
+
+.hDBLYG[style*="rgb(255, 84, 224);"] {
+    background: radial-gradient(circle, rgba(255, 84, 224, 50%), rgba(255, 84, 224, 10%));
+}
+
+.hDBLYG[style*="rgb(230, 126, 34)"] {
+    background: radial-gradient(circle, rgba(230, 126, 34, 50%), rgba(230, 126, 34, 10%));
+}
+
+.hDBLYG[style*="rgb(255, 66, 101)"] {
+    background: radial-gradient(circle, rgba(255, 66, 101, 50%), rgba(255, 66, 101, 10%));
+}
+
+.hDBLYG[style*="rgb(255, 224, 99)"] {
+    background: radial-gradient(circle, rgba(255, 224, 99, 50%), rgba(255, 224, 99, 10%));
+}
+
+/* Chat */
+.iXWCkR div {
+    max-height: 450px !important;
+    border-radius: 10px 10px 0 0 !important;
+}
+
+.iXWCkR input {
+    border-radius: 0 0 10px 10px !important;
+}
+
+/* Inventory */
+.dyFVjE {
+    margin: 5px !important;
+}
+
+/* Home */
+.ghqbJS {
+    justify-content: center;
+}
+
+.dyFVjE:has(.fvYRgr) img {
+    opacity: 0.2;
+}
+
+.cdbCBk {
+    width: max-content;
+}
