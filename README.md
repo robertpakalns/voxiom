@@ -1,5 +1,3 @@
-# VUI
-
-abababababababababaabab
+# Voxiom.io scripts collection
 
 by @robertpakalns
